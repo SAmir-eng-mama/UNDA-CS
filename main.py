@@ -8,7 +8,7 @@ from collections import Counter
 
 class HealthcareApp:
     def __init__(self, root):
-        root.title("Student’s Name & Student’s ID")
+        root.title("Samir Bhurtel - 32100095 - Healthcare Worker App")
         root.geometry("820x520")
 
         self.root = root
